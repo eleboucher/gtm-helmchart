@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gtm:
+  - apiVersion: v2
+    appVersion: 10302025.0.1
+    created: "2025-02-24T17:09:51.336349289Z"
+    description: A Helm chart for deploying Google Tag Manager on k8s.
+    digest: f1eef6e3305f123866de5c0cba55b8e971bc3fc3fe4ddc9a7ab32facec5c328f
+    name: gtm
+    type: application
+    urls:
+    - https://github.com/eleboucher/gtm-helmchart/releases/download/gtm-0.1.1/gtm-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-02-24T17:09:51.336355361Z"
